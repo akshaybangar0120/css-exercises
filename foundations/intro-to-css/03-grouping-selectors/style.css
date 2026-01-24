@@ -1,1 +1,15 @@
-/* Add CSS Styling */
+/* Syles */
+
+.three{
+    font-family:Helvetica, "times new roman", sans-serif;
+    font-size: 28px;
+}
+
+.one{
+    color: white;
+    background-color: black;
+}
+
+.two{
+    background-color: yellow;
+}
